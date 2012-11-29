@@ -16,8 +16,11 @@ pypi
 切换到pypi目录下
 
 `cd pypi/sites`
+
 `python manage.py syncdb`
+
 `python manage.py migrate`
+
 `python manage.py runserver`
 
 
@@ -41,11 +44,11 @@ pypi
 
 切换到一个包的目录下
 
-python setup.py register -r local sdist upload -r local
+`python setup.py register -r local sdist upload -r local`
 
 djangopypi还在mangae.py中注册了一个命令`ppadd`
 
-python manage.py ppadd --owner yourname package_name_or_package_path
+`python manage.py ppadd --owner yourname package_name_or_package_path`
 
 参考
 http://pypi.python.org/pypi/djangopypi/0.4.4
