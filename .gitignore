@@ -12,6 +12,8 @@ rmpyc.py
 readme.rst
 env/
 
+.idea
+
 
 # Folders
 _obj

@@ -25,19 +25,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="13" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.5247706">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="1" selection-start="486" selection-end="486" vertical-scroll-proportion="0.2733945">
+            <state line="46" column="1" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,8 +85,8 @@
         <option value="$PROJECT_DIR$/requirement/djangopypi/templates/djangopypi/package_list_simple.html" />
         <option value="$PROJECT_DIR$/sites/settings/base.py" />
         <option value="$PROJECT_DIR$/requirement/djangopypi/templates/djangopypi/package_detail_simple.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -612,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="13" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/.pypirc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="10" selection-start="162" selection-end="172" vertical-scroll-proportion="0.0">
@@ -663,7 +656,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="1" selection-start="486" selection-end="486" vertical-scroll-proportion="0.2733945">
+        <state line="46" column="1" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.5247706">
           <folding />
         </state>
       </provider>
