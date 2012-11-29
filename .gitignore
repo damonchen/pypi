@@ -3,6 +3,16 @@
 *.a
 *.so
 
+
+# python files
+*.pyc
+*.swp
+*.sqlite
+rmpyc.py
+readme.rst
+env/
+
+
 # Folders
 _obj
 _test
